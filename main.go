@@ -13,5 +13,7 @@ func main() {
 
 	fmt.Println("Insertion Sort :" , sortingalgorithms.InsertionSort(input)) 
 
+	fmt.Println("Heap sort  :",sortingalgorithms.Heap(input))
+
 
 }
